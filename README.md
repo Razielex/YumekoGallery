@@ -2,7 +2,7 @@
 
 **Yumeko Gallery** je moderní, lehký a výkonný správce obrázků pro Windows, napsaný v C# (.NET 7/WPF). Umožňuje snadné prohlížení, organizaci a základní úpravy vašich fotografií a grafiky – to vše v příjemném a svižném uživatelském rozhraní.
 
-## 🚀 Hlavní funkce
+## Hlavní funkce
 
 - **Načítání více složek najednou** s pamětí naposledy použitých cest  
 - **Dynamické náhledy** (thumbnails) s podporou GIF, WebP i JFIF  
@@ -19,7 +19,7 @@
 - **EXIF overlay** zobrazující základní metadata přímo ve vieweru  
 - **Přepalový overlay** (overexposure) s červeným a modrým heatmapovým zobrazením
 
-## 💾 Instalace
+## Instalace
 
 1. Stáhněte [instalátor **YumekoGallerySetup.exe**](#)  
 2. Spusťte a během instalace (volitelně) přidejte zástupce na plochu  
