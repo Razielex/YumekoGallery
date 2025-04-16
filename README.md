@@ -21,9 +21,8 @@
 
 ## Instalace
 
-1. Stáhněte [instalátor **YumekoGallerySetup.exe**](https://github.com/Razielex/YumekoGallery/releases)  
-2. Spusťte a během instalace (volitelně) přidejte zástupce na plochu  
-3. (Volitelné) Nainstalujte .NET 7 Desktop Runtime, pokud jej ještě nemáte
+1. Stáhněte [instalátor **YumekoGallerySetup.exe**](https://github.com/Razielex/YumekoGallery/releases) (vyberte si verzi s, nebo bez .NET) 
+2. (Volitelné) Nainstalujte .NET 7 Desktop Runtime, pokud jej ještě nemáte
 
 © 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
 
