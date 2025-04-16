@@ -1,6 +1,6 @@
 # Yumeko Gallery
 ![Náhled aplikace](yumekologofinal.png)
-**Yumeko Gallery** je moderní, lehký a výkonný správce obrázků pro Windows, napsaný v C# (.NET 7/WPF). Umožňuje snadné prohlížení, organizaci a základní úpravy vašich fotografií a grafiky – to vše v příjemném a svižném uživatelském rozhraní.
+**Yumeko Gallery** je moderní, lehký a výkonný správce obrázků pro Windows, napsaný v C# (.NET 7/WPF). Umožňuje snadné prohlížení, organizaci a zobrazení všech vašich fotografií a grafiky.
 
 ## Hlavní funkce
 
