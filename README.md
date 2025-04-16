@@ -9,10 +9,10 @@
 - **Drag & Drop**: jednoduše přetáhněte obrázek z galerie do jiné aplikace (Discord, Paint.NET, Průzkumník…)  
 - **Full‑screen Viewer**  
   - Plynulé **zoomování** a **panování** myší  
-  - **F1**: skrýt/zobrazit overlay (EXIF, histogram, paletu)  
-  - **F2**: reset zoomu na „fit‑to‑screen“  
-  - **F3**: heatmapa přepalů a podexpozic  
-  - **F5**: extrakce 8 barvé palety a automatické zkopírování HEX kódů do schránky  
+  - **F1**: skrýt overlaye (EXIF, histogram, paleta...) 
+  - **F2**: EXIF, histogram, detaily  
+  - **F3**: extrakce 8 barvé palety a automatické zkopírování HEX kódů do schránky  
+  - **F4**: heatmapa přepalů / podexpozic
 - **Duplikáty**: snadné vyhledávání, náhled a mazání opakujících se souborů  
 - **Cache náhledů** na disku pro rychlé opětovné spuštění a ušetření RAM  
 - **Sort & Filter** podle názvu, data, velikosti a rozlišení  
