@@ -22,7 +22,7 @@
 ## Instalace
 
 1. Stáhněte [**Instalátor Yumeko**](https://github.com/Razielex/YumekoGallery/releases) (vyberte si verzi s, nebo bez .NET) 
-2. (Volitelné) [**Nainstalujte**]([https://github.com/Razielex/YumekoGallery/releases](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer)) si .NET 7 Desktop Runtime, pokud jej ještě nemáte
+2. (Volitelné) [**Nainstalujte**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer) si .NET 7 Desktop Runtime, pokud jej ještě nemáte
 
 © 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
 
