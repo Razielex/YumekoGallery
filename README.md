@@ -21,7 +21,7 @@
 
 ## Instalace
 
-1. Stáhněte [instalátor **YumekoGallerySetup.exe**](#)  
+1. Stáhněte [instalátor **YumekoGallerySetup.exe**](https://github.com/Razielex/YumekoGallery/releases)  
 2. Spusťte a během instalace (volitelně) přidejte zástupce na plochu  
 3. (Volitelné) Nainstalujte .NET 7 Desktop Runtime, pokud jej ještě nemáte
 
