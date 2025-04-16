@@ -26,4 +26,5 @@
 3. (Volitelné) Nainstalujte .NET 7 Desktop Runtime, pokud jej ještě nemáte
 
 © 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
+
 Děkuji za podporu a nápady všem testerům, zvlášť Paní Muffin a Paní Chlór!
