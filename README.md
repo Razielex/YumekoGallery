@@ -1,30 +1,65 @@
 # Yumeko Gallery
 ![Náhled aplikace](logo_small.png)
+Yumeko Gallery is a modern, lightweight, and powerful media manager for Windows, written in C# (.NET 7/WPF). It makes browsing and organizing all your images and videos in your chosen folders a breeze.
+It functions both as an Image Viewer and a Video Player.
 ![Náhled aplikace](YumekoShowcase.png)
-**Yumeko Gallery** je moderní, lehký a výkonný správce obrázků pro Windows, napsaný v C# (.NET 7/WPF). Umožňuje snadné prohlížení, organizaci všech vašich fotografií a grafiky ve vámi vybraných složkách.
 
-## Hlavní funkce
+Key Features
+Multi‑Folder Loading with “remember last used” paths
 
-- **Načítání více složek najednou** s pamětí naposledy použitých cest  
-- **Dynamické náhledy** (thumbnails) s podporou GIF, WebP i JFIF  
-- **Drag & Drop**: jednoduše přetáhněte obrázek z galerie do jiné aplikace (Discord, Paint.NET, Průzkumník…)  
-- **Full‑screen Viewer**  
-  - Plynulé **zoomování** a **panování** myší  
-  - **F1**: skrýt overlaye (EXIF, histogram, paleta...) 
-  - **F2**: EXIF, histogram, detaily  
-  - **F3**: extrakce 8 barvé palety a automatické zkopírování HEX kódů do schránky  
-  - **F4**: heatmapa přepalů / podexpozic
-- **Duplikáty**: snadné vyhledávání, náhled a mazání opakujících se souborů  
-- **Cache náhledů** na disku pro rychlé opětovné spuštění a ušetření RAM  
-- **Sort & Filter** podle názvu, data, velikosti a rozlišení  
-- **EXIF overlay** zobrazující základní metadata přímo ve vieweru  
-- **Přepalový overlay** (overexposure) s červeným a modrým heatmapovým zobrazením
+Dynamic Thumbnails supporting GIF, WebP, JFIF, and more
 
-## Instalace
+Drag & Drop: simply drag an image or video from the gallery into another app (Discord, Paint.NET, Explorer…)
 
-1. Stáhněte [**Instalátor Yumeko**](https://github.com/Razielex/YumekoGallery/releases) (vyberte si verzi s, nebo bez .NET) 
-2. (Volitelné) [**Nainstalujte**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer) si .NET 7 Desktop Runtime, pokud jej ještě nemáte
+Full‑Screen Image Viewer
 
-© 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
+Smooth zoom & pan with mouse
 
-Děkuji za podporu a nápady všem testerům, zvlášť Paní Muffin a Paní Chlór!
+F1: hide overlays (EXIF, histogram, palette…)
+
+F2: show EXIF, histogram, image details
+
+F3: extract an 8‑color palette and copy HEX codes to clipboard
+
+F4: heatmap overlay for over‑/under‑exposed areas
+
+Built‑in Video Player
+
+Hardware‑accelerated decoding for smooth playback
+
+Pillar‑boxing support to avoid unwanted borders
+
+Click‑to‑pause/play anywhere on the video
+
+Keyboard shortcuts:
+
+Space = play/pause
+
+Left/Right arrows = seek ±5 seconds
+
+Esc or double‑click = exit full‑screen
+
+Replay and Loop buttons
+
+Load external subtitles (SRT) on the fly
+
+Audio track switching for multi‑track videos
+
+Auto‑hide UI and mouse cursor after 5 seconds of inactivity
+
+Duplicate Finder: locate, preview, and delete repeat files easily
+
+On‑Disk Thumbnail Cache for faster relaunch and reduced RAM usage
+
+Sort & Filter by name, date, size, and resolution
+
+EXIF Overlay displays basic metadata directly in the viewer
+
+Installation
+Download the Yumeko Installer (choose the build with or without .NET included)
+
+(Optional) Install the .NET 7 Desktop Runtime if you don’t already have it
+
+© 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
+
+Thanks to all our testers for your ideas and support—especially Mrs. Muffin and Mrs. Chlor!
