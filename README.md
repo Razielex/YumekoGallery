@@ -21,11 +21,10 @@
   - Keyboard shortcuts:
     - Space = play/pause
     - Left/Right arrows = seek ±5 seconds
-    - Esc or double‑click = exit full‑screen
+    - Esc = exit full‑screen
   - Replay and Loop buttons
   - Load external subtitles (SRT) on the fly
   - Audio track switching for multi‑track videos
-  - Auto‑hide UI and mouse cursor after 5 seconds of inactivity
 - Duplicate Finder: locate, preview, and delete repeat files easily
 - On‑Disk Thumbnail Cache for faster relaunch and reduced RAM usage
 - Sort & Filter by name, date, size, and resolution
