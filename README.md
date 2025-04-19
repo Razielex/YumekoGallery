@@ -33,9 +33,9 @@
 ## Installation
 
 1. Download the [**Yumeko Installer**](https://github.com/Razielex/YumekoGallery/releases) (choose the build with or without .NET included)
-2. (Optional) Install the .NET 7 Desktop Runtime if you don’t already have it
+2. (Optional) Install the [**.NET 7 Desktop Runtime**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer) if you don’t already have it
 
-© 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
+© 2025 Kevin [**“VexRazielex”**](https://linktr.ee/razielex) Šubrt
 
 Thanks to all our testers for your ideas and support—especially Mrs. Muffin and Mrs. Chlor!
   ]]>
