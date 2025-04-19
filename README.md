@@ -32,7 +32,7 @@
 
 ## Installation
 
-1. Download the Yumeko Installer (choose the build with or without .NET included)
+1. Download the [**Yumeko Installer**](https://github.com/Razielex/YumekoGallery/releases) (choose the build with or without .NET included)
 2. (Optional) Install the .NET 7 Desktop Runtime if you don’t already have it
 
 © 2025 Kevin “Vexra” Šubrt – razielex.webnode.cz
